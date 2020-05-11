@@ -1,0 +1,45 @@
+.block1 {
+    background: url("12.jpg") 50% / cover no-repeat;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: auto;
+}
+.block2 {
+    width: 800px;
+    height: 600px;
+    background-color: red;
+    margin: auto;
+}
+.block3 {
+    background: url("13.jpg") 50% / cover no-repeat;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: auto;
+}
+.block4 {
+    width: 800px;
+    height: 600px;
+    background-color: red;
+    margin: auto;
+}
+.block5 {
+    background: url("14.jpg") 50% / cover no-repeat;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: auto;
+}
+.block6 {
+    width: 800px;
+    height: 600px;
+    background-color: red;
+    margin: auto;
+}
+.text {
+    width: 70px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: skyblue;
+}
